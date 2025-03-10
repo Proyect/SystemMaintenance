@@ -55,6 +55,7 @@ netsh wlan delete profile name="Fibertel WiFi506  2.4GHz"
 netsh wlan delete profile name="Personal-F74-5GHz"
 netsh wlan delete profile name="Personal-0F4"
 netsh wlan delete profile name="Zorrilla 5047"
+netsh wlan delete profile name="*"
 
 
 echo "ordenar PC"
